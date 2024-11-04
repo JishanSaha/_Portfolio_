@@ -7,7 +7,7 @@ Thank you for visiting my portfolio! Feel free to reach out to me through my onl
 
 ## Connect with Me
 
-- ### [LinkedIn](https://www.linkedin.com/in/yourprofile) - For professional networking and inquiries.
+- ### [LinkedIn](https://www.linkedin.com/in/jishan-saha-3a61a3324/) - For professional networking and inquiries.
 - ### [GitHub](https://github.com/JishanSaha/) - To explore more of my work and open-source contributions.
 
 ---
