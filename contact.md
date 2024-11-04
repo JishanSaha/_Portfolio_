@@ -12,7 +12,7 @@ Thank you for visiting my portfolio! Feel free to reach out to me through my onl
 
 ---
 
-Back to the [**Home**](index.md) page. | Feel free to [**Contact**](contact.md) me.
+Back to the [**Home**](index.md) page. | Feel free to [**See my work**](Project.md) me.
 
 
 
