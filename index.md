@@ -4,9 +4,9 @@
 
 ## About Me
 
-Hello! I’m **Jishan Saha**, a Full Stack Web Development student at **Humber University**. I am passionate about creating dynamic, responsive web applications and enjoy working with both front-end and back-end technologies.
+Hello! I’m **Jishan Saha**, a Full Stack Web Development student at **Humber College**. I am passionate about creating dynamic, responsive web applications and enjoy working with both front-end and back-end technologies.
 
-- **University**: Humber University
+- **College**: Humber College
 - **Course**: Full Stack Web Development
 
 ---
